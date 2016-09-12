@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381bb495-a034-490e-ae22-7a38979c3fcd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/OS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/SDK.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/additional-novideo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/additional.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/benefits.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/contacts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Bold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Bold.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Semibold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Semibold.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ProximaNova-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/Unit-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/Unit-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/Unit-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/Unit-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-BoldIta.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-BoldIta.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-BoldIta.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-BoldIta.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Ita.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Ita.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Ita.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Ita.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-MediumIta.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-MediumIta.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-MediumIta.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro-MediumIta.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/UnitSlabOffcPro.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/screen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ecosystem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/hardware.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Analytics.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Menu_management_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Menu_management_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Menu_management_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Menu_management_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/add-app1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/add-inner-bkg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/alarm-rounded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/alarm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/analytics-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/analytics-line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arr-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/award.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/b-become.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/b-item1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/b-more.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/b-profit-item.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/b-rise.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/b-service-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/b-service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/b-social.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/badges.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/benefits01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/benefits02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/benefits03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/black-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/c-command.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/c-feedback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/c-more.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/c-return.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/c-save.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/c-win.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/check-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/choice.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cisko.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cloud8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms-lang1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms-lang2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms-preview1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms-preview2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms-preview3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/cms7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/constructor1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/crm1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/design-img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/design-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/design-img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/dining-round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/dining.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/display-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/display-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/display-img3-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/display-img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/display-touch.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ebony.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ebony2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ecosystem-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ecosystem-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ecosystem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ecosystem1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ecosystem2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ecosystem3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/floor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/for-less.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/games.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/guy-rounded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/guy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hands.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hardware-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/how-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hw-inside.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icafe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons-sf26fa9e533.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/add-app.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/analytics-range.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/analytics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/baloon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cloud1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cloud2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cloud3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cloud4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cloud5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cloud6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cloud7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cloud8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cms-lang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/codedby.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/constructor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/crm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/cup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/hand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/int-next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/int-prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/live-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/manage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/more-pink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/no-use.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/order.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/parts-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/parts-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/pos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/s-marketing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/staff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons/w-control.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/inside-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/inside-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/int-surf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/intel-pres.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/intel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/interactive-table.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/irt-table-video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/irt-table.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/item1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/item2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/item3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/item4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/kids playing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/laught-guy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/manage-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/manage1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/manage2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/manage3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/manage4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/mark-q.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/mark-w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-l1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-l2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-l3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-o1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-o2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-o3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-r1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-r2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-r3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-r4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-r7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-r8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-r9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-v1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-v2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media-v3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/media9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/menu9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/monitor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/more-img1-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/more-img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/more-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/more-img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/neo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/no-guy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/no-guy2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/one-year.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/operation-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/order-inn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/os-main.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/os-main1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/oshi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/parts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/pos1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/recognition1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/recognition2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/recognition3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/restaurants-head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/rounded-table.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/s-marketing-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/s-money1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/s-money2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/screen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/sdk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/sensors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/slider-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/slider-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/software-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/software-img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/staff1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/arr-bot.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/arr-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/arr-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/brand.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/card.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/download.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/fb-round-active.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/fb-round.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/fb-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/fb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/food.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/game.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/gift.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/hand.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/in-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/infinity.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/intel.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/more.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/music.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/phone.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/prod.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/service.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/u2b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/why-we1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/why-we2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/why-we3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/wifi.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/yt-round-active.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/svg/yt-round.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/t-top.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/table-guy-video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/table-guy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/table-map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/table-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/table-video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/table-video2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/table.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/tables.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/tables2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/tablet-check.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/team.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/tech1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/tech2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/tech3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/tech4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/technology-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/technology-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/terminal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/touchsensors1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/touchsensors2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/touchsensors3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/touchsensors4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/touchsensors5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/touchsensors6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/two-tables-rounded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/two-tables-wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/two-tables.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/video-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/w-control1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/wad-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/waiter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/wall.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/watch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/white-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/window.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/yt-channel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/int-surf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/ScrollMagic.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/cycle.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/cycle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/head.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/jquery.form-validator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/mockup-classie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/mockup-main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/mockup-modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/mockup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/lib/wow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/min/common.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/media.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/prepros.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/restaurants.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/_common.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/_layouts.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/_main.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/_mockup.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/_mod.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/_reset.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/_slick.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/_animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/_demo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/_images.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/_keyframes.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/_mixins.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/_sprites.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/ceaser-easing/_ceaser.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/ceaser-easing/_ease-types.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/ceaser-easing/_easing-functions.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/lib/ceaser-easing/_easing-vars.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/sass/screen.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/software.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/watch.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="irt.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="irt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_main.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass/_main.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5104167">
+              <caret line="2755" column="27" selection-start-line="2755" selection-start-column="27" selection-end-line="2755" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sass/screen.sass" />
+        <option value="$PROJECT_DIR$/sass/lib/_mixins.sass" />
+        <option value="$PROJECT_DIR$/js/lib/wow.js" />
+        <option value="$PROJECT_DIR$/js/init.js" />
+        <option value="$PROJECT_DIR$/build/additional.html" />
+        <option value="$PROJECT_DIR$/build/sass/_common.sass" />
+        <option value="$PROJECT_DIR$/build/sass/screen.sass" />
+        <option value="$PROJECT_DIR$/sass/_common.sass" />
+        <option value="$PROJECT_DIR$/js/common.js" />
+        <option value="$PROJECT_DIR$/build/sass/_main.sass" />
+        <option value="$PROJECT_DIR$/additional.html" />
+        <option value="$PROJECT_DIR$/additional-novideo.html" />
+        <option value="$PROJECT_DIR$/sass/_main.sass" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irt-add" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irt-add" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irt-add" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irt-add" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irt-add" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value=".btn&#9;null&#9;null" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381bb495-a034-490e-ae22-7a38979c3fcd" name="Default" comment="" />
+      <created>1471867067032</created>
+      <option name="number" value="Default" />
+      <updated>1471867067032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15208334" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../!startproject/src/sass/lib/_mixins.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="124" column="12" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tours/src/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06422018">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../attendify/src/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72697">
+          <caret line="264" column="59" selection-start-line="264" selection-start-column="59" selection-end-line="264" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/animate (1).css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.019428572">
+          <caret line="1476" column="48" selection-start-line="1476" selection-start-column="23" selection-end-line="1476" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5104167">
+          <caret line="2755" column="27" selection-start-line="2755" selection-start-column="27" selection-end-line="2755" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
